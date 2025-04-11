@@ -26,11 +26,11 @@
 -CRF++ / sklearn-crfsuite
 - Jupyter Notebooks
 
-To read more - [Report](https://docs.google.com/document/d/1E6cTCHRMHmiN7xopgDCIRmK2yb4w0o7D/edit?usp=sharing&ouid=112722355947732076323&rtpof=true&sd=true)
-
 **Use Cases:** 
 - Voice Assistants
 - TTS/ASR Engines
 - Digital Accessibility Tools
 - Conversational AI Preprocessing
 - Language Standardization
+
+To read more, refer - [Report](https://docs.google.com/document/d/1E6cTCHRMHmiN7xopgDCIRmK2yb4w0o7D/edit?usp=sharing&ouid=112722355947732076323&rtpof=true&sd=true)
