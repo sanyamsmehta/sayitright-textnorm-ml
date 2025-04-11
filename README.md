@@ -13,13 +13,13 @@
 - Time (3:00 PM → "three p m")
 - URLs, addresses, and fractions 
 
-**Key Features: **
+**Key Features:**
 - Clean dataset of over 9 million tokens across 16 linguistic classes
 - Multiple models evaluated on performance, speed, and interpretability
 - Comparative results using accuracy and F1 scores
 - Modular Jupyter notebooks for exploration and experimentation 
 
-**Tech Stack: **
+**Tech Stack:**
 - Python, Pandas, Scikit-learn
 - FastText (Facebook)
 - T5 (Google Transformers via HuggingFace)
@@ -28,7 +28,7 @@
 
 To read more - [Report](https://docs.google.com/document/d/1E6cTCHRMHmiN7xopgDCIRmK2yb4w0o7D/edit?usp=sharing&ouid=112722355947732076323&rtpof=true&sd=true)
 
-Use Cases: 
+**Use Cases:** 
 - Voice Assistants
 - TTS/ASR Engines
 - Digital Accessibility Tools
