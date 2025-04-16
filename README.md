@@ -8,10 +8,10 @@
 - CRF
 - AdaBoost, kNN, and more
 - Handles challenging cases like:
-- Dates (11/17/09 → "november seventeenth oh nine")
-- Currency ($18,887 → "eighteen thousand eight hundred eighty seven dollars")
-- Time (3:00 PM → "three p m")
-- URLs, addresses, and fractions 
+  - Dates (11/17/09 → "november seventeenth oh nine")
+  - Currency ($18,887 → "eighteen thousand eight hundred eighty seven dollars")
+  - Time (3:00 PM → "three p m")
+  - URLs, addresses, and fractions 
 
 **Key Features:**
 - Clean dataset of over 9 million tokens across 16 linguistic classes
